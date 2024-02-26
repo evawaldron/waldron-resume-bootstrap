@@ -1,0 +1,24 @@
+.header {background-color: rgb(249, 159, 231);
+        }
+
+.bottom {background-color: rgb(255, 230, 250);
+        color:rgb(149, 27, 124);
+        }
+
+.col-md-3 {color: rgb(149, 27, 124);
+            font-size: 1em;
+        }
+
+h2 {color:rgb(62, 13, 107)}
+
+a:link, a:visited {
+        color: rgb(149, 27, 124);
+        font-size: 15px;
+        }
+
+a:hover { text-decoration: underline;
+        color: rgb(38, 38, 183);
+        }
+
+body { background-color: rgb(49, 146, 73);
+        }
